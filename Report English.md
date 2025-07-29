@@ -12,6 +12,8 @@ This innovative approach involves creating and using a **semantic dictionary** w
 
 In AI Red Teaming, **constant innovation** is crucial. Techniques must not only be creative in detecting vulnerabilities but also serve as a window to **deeply understand how LLMs process information** and the implications of these internal mechanics for their security and functionality. This report aims precisely at that: revealing a new category of vulnerability that impacts the fundamental functionality of LLMs through the manipulation of its internal semantic logic.
 
+![](Images/Image1.png)
+
 ---
 
 ### Methodology: Inducing Semantic Disruption
