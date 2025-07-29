@@ -12,6 +12,8 @@ Este enfoque innovador implica la creación y el uso de un **diccionario semánt
 
 En el Red Teaming de IA, la **innovación constante** es crucial. Las técnicas no solo deben ser creativas para detectar vulnerabilidades, sino también servir como una ventana para **comprender profundamente cómo los LLMs procesan la información** y las implicaciones de estas mecánicas internas para su seguridad y funcionalidad. Este informe apunta precisamente a eso: revelar una nueva categoría de vulnerabilidad que impacta la funcionalidad fundamental de los LLMs a través de la manipulación de su lógica semántica interna.
 
+![](Images/Image1.png)
+
 ---
 
 ### Metodología: Inducción de Disrupción Semántica
