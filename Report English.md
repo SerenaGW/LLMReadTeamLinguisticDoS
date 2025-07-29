@@ -94,7 +94,7 @@ We leave the door open for future discussions and research directions:
 
 I am firmly convinced that Artificial Intelligence security is a shared responsibility. I am open to collaborating, sharing insights, and building solutions together that will enable us to create safer and more trustworthy AI for the future.
 
-[Your LinkedIn Profile] (https://www.linkedin.com/in/serena-gomez-wannaz/?locale=en_US)
+[Your LinkedIn Profile](https://www.linkedin.com/in/serena-gomez-wannaz/?locale=en_US)
 
 ---
 
